@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59477274670",
+    "project_id": "fluttertutorials-24ff7",
+    "storage_bucket": "fluttertutorials-24ff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59477274670:android:6dabb3e65ac42802e36fbf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tutorials"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnke8epgdz1X091KEAnHo5z7kV4qvMZiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
